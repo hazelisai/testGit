@@ -1,0 +1,7 @@
+.sectionArea{
+  width: 100%;
+  min-height: 50px;
+  border-style: dashed;
+  border-width: 1px;
+  border-radius: 3px;
+}
